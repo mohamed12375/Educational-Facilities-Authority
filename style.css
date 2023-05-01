@@ -1,0 +1,14 @@
+@charset "utf-8";
+@import url(assets/css/font.css);
+
+body, html
+{
+	font-family:'JF';
+}
+
+
+#numbers{
+	background:url(assets/imgs/slider/1.jpg) center center fixed;
+	background-size: cover;
+
+}
